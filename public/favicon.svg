@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74.4 96.8" width="74.4" height="96.8"><rect width="100%" height="100%" fill="#ffffff"/><text font-family="monospace" font-size="14" fill="#10b981" text-anchor="middle">
-  <tspan x="37.2" dy="0">___</tspan>
-  <tspan x="37.2" dy="18.2"> / __|</tspan>
-  <tspan x="37.2" dy="18.2"> \__ \</tspan>
-  <tspan x="37.2" dy="18.2"> |___/</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 131" width="124" height="131"><rect width="100%" height="100%" fill="#ffffff"/><text font-family="monospace" font-size="14" fill="#10b981" text-anchor="middle">
+  <tspan x="62" dy="0">_|_|_|</tspan>
+  <tspan x="62" dy="18.2">  _|</tspan>
+  <tspan x="62" dy="18.2">    _|_|</tspan>
+  <tspan x="62" dy="18.2">        _|</tspan>
+  <tspan x="62" dy="18.2">  _|_|_|</tspan>
 </text></svg>
