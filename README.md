@@ -35,3 +35,4 @@ Real projects from GitHub and Gitea repos across 7 categories:
 ## Design
 
 Terminal boot sequence on page load. No fluff — just projects, descriptions, and links. Dark terminal aesthetic with monospace fonts, green/amber accents.
+
