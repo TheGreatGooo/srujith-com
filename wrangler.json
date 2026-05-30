@@ -1,8 +1,0 @@
-{
-  "name": "srujith-com",
-  "compatibility_date": "2026-05-28",
-  "pages": {
-    "build_command": "npm run build",
-    "output_directory": "dist"
-  }
-}
